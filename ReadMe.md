@@ -29,3 +29,9 @@
     
 - POSTMAN手动推送消息
    POST http://localhost:8080/doWebSocket/pushMsg
+   
+   ### 更多信息
+   - 统一走gateway转发消息 https://juejin.cn/post/7067396641384300574
+   
+### 参考文档
+- WebSocket实现鉴权方案 https://blog.csdn.net/qq_38531706/article/details/118026034
