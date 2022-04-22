@@ -35,3 +35,11 @@
    
 ### 参考文档
 - WebSocket实现鉴权方案 https://blog.csdn.net/qq_38531706/article/details/118026034
+
+
+
+### 未完的问题
+- http的网关转发到websocket的服务上，
+- http以及websocket的端口是否一样？
+- 以上问题的解决方案：https://www.naah69.com/post/2018-05-31-springcloud-gateway-websocket/
+
